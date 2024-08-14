@@ -2,7 +2,7 @@
 Bu proje Murat Yücedağ egitmenliginde udemy'de paylaştıgı 20 saatlik portfolio projesidir. Porfolyo egitimi olarak geliştirilmiş ve code first yaklaşımı temel alan projedir. Proje içeriğinde çeşitli yetenek yönetimini saglayan temel CRUD(Create, Read, Update, Delete) kullanılmaktadır. Vitrin kısmında görüntülenmek üzere veriler veri tabanından çekilmektedir. 
 
 Depoya klonla
-$ git klonu https://github.com/mrvakbas/MyPortfolioUdemy
+$ git klonu https://github.com/gokallpp/Asp.Net-MVC-Portfolyo-Uygulamas-
 
 2024 © Merve AKBAŞ
 
