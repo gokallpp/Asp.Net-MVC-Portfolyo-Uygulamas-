@@ -4,7 +4,7 @@ Bu proje Murat Yücedağ egitmenliginde udemy'de paylaştıgı 20 saatlik portfo
 Depoya klonla
 $ git klonu https://github.com/gokallpp/Asp.Net-MVC-Portfolyo-Uygulamas-
 
-2024 © Merve AKBAŞ
+2024 © Abdullah GÖKALP
 
 ### Kullanılan Teknolojiler 
 ***
