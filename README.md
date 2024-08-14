@@ -8,6 +8,13 @@ $ git klonu https://github.com/gokallpp/Asp.Net-MVC-Portfolyo-Uygulamas-
 
 ### Kullanılan Teknolojiler 
 ***
+## Proje Açıklaması
+
+Bu projeyi, **Udemy** üzerinde tamamladığım "Asp.Net Core ile Dinamik Portfolyo Web Sitesi" kursu kapsamında geliştirdim. Bu eğitim, iki parttan oluşmaktadır:
+
+1. Partta: Kullanıcı arayüzü (UI)
+2. Partta: Admin paneli
+
 #### Backend
  * **C#** : Backend tarafında c# dili kullanılmıştır. 
  * **MSSQL** : Veritabanı olarak Microsoft SQL Server kullanılmıştır.
