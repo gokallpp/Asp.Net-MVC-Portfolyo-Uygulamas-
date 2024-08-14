@@ -17,19 +17,38 @@ $ git klonu https://github.com/gokallpp/Asp.Net-MVC-Portfolyo-Uygulamas-
  * **Css** : Stillerin belirlenmesi için CSS kullanılmıştır.
  * **Bootstrap** : Hızlı ve etkileşimli bir şekilde arayüz tasarımı için bootstrap kullanılmıştır.
 
-### Proje Yapısı ve Mimarisi
-***
-* **Controller** : CRUD işlemleri için Controller sınıfları bulunur. 
-* **DTOs (Data Transfer Objects)*** : Gerekli olan verileri sadece belirli bileşenlerle paylaşıldığı DTO sınıfları bulunur. 
+### Projenin Amacı
 
+Bu projedeki amacımız, Asp.Net Core kullanarak sıfırdan dinamik bir portfolyo web sitesi geliştirebilmektir.
 
-### Gereksinimler
-***
-* ##### .Net Core SDK
-* ##### Microsoft SQL Server
+### Senaryo Kurgusu
 
+Projede bir portfolyo teması üzerinden SQL veritabanı kullanarak "Hakkımda", "Deneyimlerim", "Yeteneklerim", "Referanslarım" ve "İletişim Bilgilerim" gibi verilerin dinamik olarak yönetimi sağlanmaktadır.
 
-### Kullanılan Framwork Sürümü
-***
-* ##### Entity Framwork Core 6.0
+### Teknik İçerikler
+
+Projede kullanılan teknolojiler ve kavramlar:
+- Asp.Net Core
+- SQL
+- Context Sınıfı
+- Migration İşlemleri
+- Paket Yönetimleri
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- View Component
+- Model
+- View
+- Controller
+
+## Öğrendiklerim
+
+Bu proje sayesinde aşağıdaki konularda bilgi ve deneyim kazandım:
+- Asp.Net Core kullanarak web uygulamaları geliştirme
+- SQL veritabanı entegrasyonu ve yönetimi
+- HTML, CSS, Bootstrap ve JavaScript ile kullanıcı arayüzü tasarımı
+- MVC (Model-View-Controller) mimarisi
+- View Componentler ile modüler yapı oluşturma
+- Code First yaklaşımı ve Migration işlemleri
 
