@@ -1,5 +1,10 @@
 ## ***Dinamik Portfolyo Web Sitesi***
-Bu proje Murat Yücedağ egitmenliginde udemy'de paylaştıgı 20 saatlik portfolio projesidir. Porfolyo egitimi olarak geliştirilmiş ve code first yaklaşımı temel alan projedir. Proje içeriğinde çeşitli yetenek yönetimini saglayan temel CRUD(Create, Read, Update, Delete) kullanılmaktadır. Vitrin kısmında görüntülenmek üzere veriler veri tabanından çekilmektedir. 
+
+## Proje Açıklaması
+Bu projeyi, **Udemy** üzerinde tamamladığım "Asp.Net Core ile Dinamik Portfolyo Web Sitesi" kursu kapsamında geliştirdim. Bu eğitim, iki parttan oluşmaktadır:
+
+Partta: Kullanıcı arayüzü (UI)
+Partta: Admin paneli
 
 Depoya klonla
 $ git klonu https://github.com/gokallpp/Asp.Net-MVC-Portfolyo-Uygulamas-
@@ -8,12 +13,7 @@ $ git klonu https://github.com/gokallpp/Asp.Net-MVC-Portfolyo-Uygulamas-
 
 ### Kullanılan Teknolojiler 
 ***
-## Proje Açıklaması
 
-Bu projeyi, **Udemy** üzerinde tamamladığım "Asp.Net Core ile Dinamik Portfolyo Web Sitesi" kursu kapsamında geliştirdim. Bu eğitim, iki parttan oluşmaktadır:
-
-1. Partta: Kullanıcı arayüzü (UI)
-2. Partta: Admin paneli
 
 #### Backend
  * **C#** : Backend tarafında c# dili kullanılmıştır. 
